@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhavyagutta1/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bhavyagutta1/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/bhavyagutta1/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/bhavyagutta1/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhavyagutta1/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/bhavyagutta1/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/bhavyagutta1/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
